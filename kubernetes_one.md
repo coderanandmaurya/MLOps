@@ -306,12 +306,19 @@ Recommended for beginners:
 Official sites:
 
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/?utm_source=chatgpt.com)
-* [DL for kubernetes copy to powershell](curl.exe -LO "https://dl.k8s.io/release/v1.36.0/bin/windows/amd64/kubectl.exe")
+* [DL for kubernetes copy to powershell](curl.exe -LO "https://dl.k8s.io/release/v1.36.0/bin/windows/amd64/kubectl.exe)
 * [Minikube](https://minikube.sigs.k8s.io/docs/?utm_source=chatgpt.com)
 
 ---
 
 # 12. Start Minikube
+```bash
+curl.exe -LO "https://dl.k8s.io/release/v1.36.0/bin/windows/amd64/kubectl.exe 
+```
+```bash
+install Kubernetes.minikube  
+```
+ 
 
 ```bash
 minikube start
