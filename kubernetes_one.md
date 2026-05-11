@@ -315,8 +315,10 @@ Official sites:
 ```bash
 curl.exe -LO "https://dl.k8s.io/release/v1.36.0/bin/windows/amd64/kubectl.exe 
 ```
+
 ```bash
-install Kubernetes.minikube  
+winget install Kubernetes.minikube                           
+
 ```
  
 
